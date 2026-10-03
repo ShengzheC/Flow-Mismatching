@@ -1,0 +1,8 @@
+torch>=2.3
+torchvision>=0.18
+numpy
+scikit-learn
+scikit-image
+matplotlib
+tqdm
+flow_matching  # only used to generate sample images during training
